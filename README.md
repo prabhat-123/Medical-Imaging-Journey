@@ -19,3 +19,6 @@ In addition to the projects, this repository also hosts my personal learning jou
 Join me on this exciting journey at the intersection of medical science, technology, and image analysis. Together, let's push the boundaries of medical imaging and contribute to enhanced healthcare diagnostics and patient care.
 
 Feel free to explore, learn, and collaborate. Your feedback and insights are greatly appreciated as we embark on this transformative exploration of medical imaging.
+
+Dataset link -> https://www.kaggle.com/datasets/tschandl/isic2018-challenge-task1-data-segmentation?select=ISIC2018_Task1-2_Test_Input
+
